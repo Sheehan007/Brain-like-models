@@ -1,7 +1,7 @@
 # Brain-like-models
 
 
-Ever since the dawn of What is it that actually makes a model brain-like? 
+Ever since the dawn of artificial intelligence. What is it that actually makes a model brain-like? 
 
 This question gives rise to another question: Does a vision model's task performance predict how brain-like its internal representations are or is it the training objective, the architecture or sheer scale? This is something that no one knows the answer to yet.
 
